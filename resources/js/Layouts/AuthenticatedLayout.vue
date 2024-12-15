@@ -32,6 +32,9 @@ const showingNavigationDropdown = ref(false);
                                 <NavLink :href="route('dashboard')" :active="route().current('dashboard')">
                                     Dashboard
                                 </NavLink>
+                                <NavLink :href="route('ingredients.index')" :active="route().current('ingredients.index')">
+                                    {{ $page.props.translations.ingredients }}
+                                </NavLink>
                             </div>
                         </div>
 
@@ -114,6 +117,9 @@ const showingNavigationDropdown = ref(false);
                     <div class="pt-2 pb-3 space-y-1">
                         <ResponsiveNavLink :href="route('dashboard')" :active="route().current('dashboard')">
                             Dashboard
+                        </ResponsiveNavLink>
+                        <ResponsiveNavLink :href="route('ingredients.index')" :active="route().current('ingredients.index')">
+                            {{ $page.props.translations.ingredients }}
                         </ResponsiveNavLink>
                     </div>
 
