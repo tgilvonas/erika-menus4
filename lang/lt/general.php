@@ -13,7 +13,7 @@ return [
     'remember_me' => 'Prisiminti mane',
     'forgot_password' => 'Pamiršote slaptažodį?',
     'forgot_password_description' => 'Užmiršote savo slaptažodį? Ne bėda - įveskite savo el. pašto adresą, ir mes Jums atsiųsime slaptažodžio pakeitimo nuorodą',
-    'email_password_reset_link' => 'Išsiųsti el. paštu slaptažodžio pakeitimo nuorodą',
+    'email_password_reset_link' => 'Išsiųsti slaptažodžio pakeitimo nuorodą el. paštu ',
     'created' => 'sukurtas',
     'updated' => 'atnaujintas',
     'deleted' => 'ištrintas',
