@@ -47,6 +47,7 @@ return [
     'value_must_be_numeric' => 'Įveskite skaitinę reikšmę',
     'sum_is_more_than_1_gram' => 'Suma viršija 1 gramą',
     'ingredient' => 'Ingredientas',
+    'enter_text_for_search' => 'Įveskite tekstą paieškai...',
     'create_mealtime' => 'Sukurti valgymą',
     'edit_mealtime' => 'Redaguoti valgymą',
     'mealtime' => 'Valgymas',
