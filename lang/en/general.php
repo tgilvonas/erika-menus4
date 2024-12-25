@@ -101,4 +101,11 @@ return [
     'metrics_content' => 'Here should be some metrics',
     'export_pdf' => 'Export to PDF',
     'sum' => 'Sum',
+    'profile_information' => 'Profile information',
+    'name' => 'Name',
+    'update_password' => 'Update password',
+    'password_strength_description' => 'Ensure your account is using a long, random password to stay secure.',
+    'current_password' => 'Current Password',
+    'new_password' => 'New Password',
+    'confirm_password' => 'Confirm Password',
 ];

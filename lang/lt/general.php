@@ -102,4 +102,11 @@ return [
     'metrics_content' => 'Here should be some metrics',
     'export_pdf' => 'Eksportuoti į PDF',
     'sum' => 'Suma',
+    'profile_information' => 'Profilio informacija',
+    'name' => 'Vardas',
+    'update_password' => 'Atnaujinti slaptažodį',
+    'password_strength_description' => 'Jūsų slaptažodis privalo būti ilgas, sudarytas iš mažųjų ir didžiųjų raidžių bei skaičių',
+    'current_password' => 'Dabartinis slaptažodis',
+    'new_password' => 'Naujas slaptažodis',
+    'confirm_password' => 'Pakartokite slaptažodį',
 ];
