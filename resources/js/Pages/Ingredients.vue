@@ -35,7 +35,7 @@ function getIngredientsList() {
         <template #header>
             <h2 class="font-semibold text-xl text-gray-800 dark:text-gray-200 leading-tight">{{ $page.props.translations.ingredients }}</h2>
         </template>
-        <div class="py-12">
+        <div class="py-3">
             <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
                 <p class="mb-3">{{ $page.props.translations.ingredients_list_description }}</p>
                 <div class="flex items-center space-x-2 pb-3">

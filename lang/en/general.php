@@ -14,6 +14,7 @@ return [
     'forgot_password' => 'Forgot your password?',
     'forgot_password_description' => 'Forgot your password?? No problem! Enter your e-mail address and you will get your password reset link.',
     'email_password_reset_link' => 'Send password reset link',
+    'profile' => 'Profile',
     'created' => 'created',
     'updated' => 'updated',
     'deleted' => 'deleted',
