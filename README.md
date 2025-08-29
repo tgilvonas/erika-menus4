@@ -3,8 +3,10 @@ Dietology app on Laravel and Vue frameworks, which calculates if daily nutrition
 Installation:
 1. Run composer install
 2. Configure database connection in your .env file (copy from .env.example)
+3. Execute command "php artisan key:generate"
 3. Execute command "php artisan migrate"
 4. Execute command "php artisan db:seed"
-5. Create your user via "php artisan tinker", model full namespace is App\Models\User
-6. Execute command "npm run build"
-7. Log in and enjoy
+5. Execute command "npm run build"
+6. Log in and enjoy
+
+Note: if you want to launch this project on Docker, execute these commands in Docker container.
